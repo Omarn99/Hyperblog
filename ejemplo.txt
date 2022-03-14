@@ -1,6 +1,3 @@
-Ejemplo:
-Copia N: 1
-Copia N: 2
-Copia N:3
-
+Ejemplo git
+Copia Numero 1 con checkout
 
