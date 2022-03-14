@@ -1,6 +1,8 @@
 Ejemplo:
 Copia N: 1
 Copia N: 2
-Copia N:3
-
+Copia N: 3
+Copia N: 4
+Copia N: 5
+Copia N: 6
 
