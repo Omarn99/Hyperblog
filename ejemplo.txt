@@ -1,4 +1,5 @@
-lista de numero de copias y letras
+lista de numero de copias y letras 
+-----------------------------------
 
 Ejemplo:
 Copia N: 1 
